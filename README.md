@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games.
 - 🌱 I’m currently learning to code, but I will manage.
 - 💞️ I’m looking to collaborate on the Epic Games Organization!
-- 📫 How to reach me: Discord: Stelercus 9164
+- 📫 How to reach me: Discord: Feliz 1337.
 
 <!---
 feliz-max/feliz-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
